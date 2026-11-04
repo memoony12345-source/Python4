@@ -1,0 +1,1 @@
+سيقوم GitHub Actions بتنزيل ara.traineddata وeng.traineddata إلى هذا المجلد أثناء البناء.
